@@ -1,4 +1,4 @@
-module logging
+module github.com/feifeiz1/logging
 
 go 1.23.2
 
